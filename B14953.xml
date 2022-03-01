@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Septemb. 2. Numb. 37. The continuation of our forraine avisoes, from the 20. of the last moneth to this present Containing the confirmation of the newes published the 20.th of August, concerning the severall encounters betwixt the King of Sweden and General Tilly, with the three dayes welcome given him, upon his project of nayling the K. of Sweden ordnance. An apologie of the King of Swedens (formerly published in the Dutch) not vnfit to give satisfaction to the world, concerning his not releeving of the citie Magdenburgh, wherein you shall finde a briefe relation of the Kings proceeding ever since hee began the warre in Germanie. The landing of the L. Generall, the Marquis Hamilton at Stralsunt, with all his men sound and well.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14953</idno>
+            <idno type="STC">STC 18507.221</idno>
+            <idno type="STC">ESTC S118669</idno>
+            <idno type="EEBO-CITATION">99853876</idno>
+            <idno type="PROQUEST">99853876</idno>
+            <idno type="VID">177410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14953)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1097:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Septemb. 2. Numb. 37. The continuation of our forraine avisoes, from the 20. of the last moneth to this present Containing the confirmation of the newes published the 20.th of August, concerning the severall encounters betwixt the King of Sweden and General Tilly, with the three dayes welcome given him, upon his project of nayling the K. of Sweden ordnance. An apologie of the King of Swedens (formerly published in the Dutch) not vnfit to give satisfaction to the world, concerning his not releeving of the citie Magdenburgh, wherein you shall finde a briefe relation of the Kings proceeding ever since hee began the warre in Germanie. The landing of the L. Generall, the Marquis Hamilton at Stralsunt, with all his men sound and well.</title>
+                  <author>Butter, Nicholas, d. 1664, publisher.</author>
+                  <author>Bourne, Nicholas, publisher.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Nath: Butter and Nicholas Bourne,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>No. 37 in a series published between late 1629 or early 1630 and the end of 1630 by Nathaniel Butter and Nicholas Bourne (cf. Dahl).</note>
+                  <note>Formerly STC 11177.</note>
+                  <note>Identified as STC 11177 on UMI microfilm.</note>
+                  <note>Reproductions of the originals in the Bodleian Library ("Early English books, 1475-1640"), and the British Library ("Early English newspapers").</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thirty Years' War, 1618-1648 --  Early works to 1800.</term>
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177410:1"/>
+            <pb facs="tcp:177410:1" rendition="simple:additions"/>
+            <p>
+               <hi>Septemb.</hi> 2.</p>
+            <p>
+               <hi>Numb.</hi> 37.</p>
+            <p>THE CONTINVATION of our forraine Aviſoes, from the 20. of the laſt Moneth to this preſent.</p>
+            <p>CONTAINING, The confirmation of the Newes pub<g ref="char:EOLhyphen"/>liſhed the 20th of Auguſt, concerning the ſeverall Encounters betwixt the King of <hi>Sweden</hi> and Generall <hi>Tilly,</hi> with the Three dayes welcome given him, upon his project of Nayling the K. of <hi>Swedens</hi> Ordnance.</p>
+            <p>
+               <hi>An Apologie of the King of</hi> Swedens (formerly publiſhed in the Dutch) not vnfit to give ſatisfaction to the world, concerning his <hi>not releeving of the Citie</hi> Magdenburgh, wherein you ſhall finde a briefe Relation of the Kings proceeding ever ſince hee began the Warre in <hi>Germanie.</hi>
+            </p>
+            <p>The landing of the L. Generall, the Marquis HAMILTON at <hi>Stralſunt,</hi> with all his men ſound and well.</p>
+            <p>LONDON. Printed for <hi>Nath: Butter</hi> and <hi>Nicholas Bourne.</hi> 1631.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177410:2"/>
+            <head>To the Impartiall Reader.</head>
+            <p>IN our laſt Aviſoes the 20. of <hi>Auguſt</hi> (which was devided into 2. parts) wee printed ſeverall paſſages of the late good ſucceſſe and Victories of the King of <hi>Sweden</hi> againſt Monſieur <hi>Tilly,</hi> as wee received them from forreine parts, which was publiſhed by us with<g ref="char:EOLhyphen"/>out addition or ſubtraction, &amp; might have given ſome credit to the ſame, and deſerued a more favorable con<g ref="char:EOLhyphen"/>ſtruction from the moſt malevolently affected, yet from ſome it could receive no better approbation, than that all was lyes, and that the King of <hi>Sweden</hi> was kild, or taken Priſoner, and his Army utterly defeated, as at this houre ſome ſhame not impudently to maintaine both heere, and beyond ſea at <hi>Antwerp, Bruxels,</hi> and elſe-where. Wherefore wee doe now publiſh (as wee have received them from better hands a confirmation of the Truth thereof with ſome circumſtances not in our former, and againſt which, let the moſt barking curre open his mouth and ſay as formerly. God grant him the multiplication of the like victories and good ſucceſſe untill all his Enemies be vanquiſhed, and a ge<g ref="char:EOLhyphen"/>nerall Peace ſetled in all the parts of <hi>Germany,</hi>
+            </p>
+            <trailer> Amen.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:177410:2" rendition="simple:additions"/>
+            <head>The Continuation of our Forreigne Newes.</head>
+            <div type="section">
+               <head>From <hi>Stetin</hi> the last of July, <hi>Stilo vet.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>He King of Sweden having defeated the Im<g ref="char:EOLhyphen"/>periall regiments, I wrote of in my laſt, re<g ref="char:EOLhyphen"/>tired againe and ſatisfied his Campe the beſt he could, for he knew <hi>Tilly</hi> would not long tarry but come and viſite him. But be<g ref="char:EOLhyphen"/>fore <hi>Tilly</hi> came on himſelfe hee had ſent certaine ſpies, and ſent word to ſome other he had in the Kings army, to do him ſuch ſeruice as he thought would aſſure him of the totall victory over the King. They therefore having undertaken to naile the Ordnance of the Kings Campe, at leaſt towards that part where <hi>Tilly</hi> had eſpe<g ref="char:EOLhyphen"/>cially commanded it, and by that meanes make the ſame quite uſeleſſe for the King when he ſhould moſt have need of it, one of thoſe ſpies or traytors feeling ſome remorſe in his conſci<g ref="char:EOLhyphen"/>ence, diſcovered the plot to the King and was cauſe that the other were apprehended. Now <hi>Tilly</hi> hoping things were per<g ref="char:EOLhyphen"/>formed according to his pleaſure, beganne to diſcharge his great Ordnance againſt the Kings quarter, and having ſpent aboue 60. ſhots, yet he did no harme thereby, except that one ſhot carried away the head from the ſhoulders of a gentleman that having ſerued <hi>Tilly</hi> had but a few dayes before beene ta<g ref="char:EOLhyphen"/>ken priſoner, and an arme from another ſouldier. For the King having put things in order did endure all without making one ſhot in anſwere, whereby <hi>Tilly</hi> was the more aſſured in his hope and reſolution, and therefore he ſent on ſome of his troopes to attempt the Kings trenches, where they found no
+<pb n="2" facs="tcp:177410:3"/>great reſiſtance, which <hi>Tilly</hi> ſeeing, he ſuppoſed he ſhould quickly force and take all that quarter, and to that end advanced and preſſed on with his army, when on a ſudden the Kings ordnance playd at once amongſt the ſame, and with chaine ſhot and what other ſhot elſe was thought fitteſt to deſtructi<g ref="char:EOLhyphen"/>on, made a great butchery of <hi>Tillies</hi> army; And the King at the ſame inſtant ſent forth <hi>Baudis</hi> with three regiments of Horſe, who ſet ſo rudely into <hi>Tillies</hi> Curraſſeers, that he ſlew a great many and turned them to flight; And it is ſuppoſed, that if the King had ſeconded him with the reſt of his army, he would have defeated all his enemies, and few would have eſ<g ref="char:EOLhyphen"/>caped. Thus <hi>Tilly</hi> having ſped no better in this his reuenge, then his Vantgard had done before him, made his retreat, which was not much unlike unto a running away, leaving a number of his men priſoners and more ſlaine behinde him.</p>
+               <p>Vpon the 28. of Iuly, my Lord <hi>Marquis Hamilton</hi> arri<g ref="char:EOLhyphen"/>ved with all his fleete joyfully at <hi>Stralſunt,</hi> and all his men were in good health. From thence he diſpatched preſently a gentleman to the King, and we ſhall now daily heare of his marching further and of his exploits, which God doe proſper.</p>
+            </div>
+            <div type="section">
+               <head>Out of another Letter the <hi>2.</hi> of <hi>Auguſt.</hi>
+               </head>
+               <p>The plague bginnes to be very furious in Sileſia, but yet notwithſtanding the Emperour hath given order to make an army there alſo againſt the King of Sweden, which ſhall con<g ref="char:EOLhyphen"/>ſiſt of 15000. men, and the ſaid army is already very ſtrong, and hath this great while beſiedged the Swedes in Croſſen, but have as yet done them no harme. The King of Sweden hath ſent for his forces that were in Sileſia to come to him, and thereby it is ſuppoſed, that the ſaid King and <hi>Tilly,</hi> who is ſomewhat retired back, untill his army be reinforced againe, will not part, before they give one another a bloody battell. And at the Citty of Hall, all the water of the ditches about the towne was of late turned all into blood, and hath beene ſeene by many hundred men of good ſort who doe averre the ſame.
+<pb n="3" facs="tcp:177410:3" rendition="simple:additions"/>Beſides this on the laſt day of Iuly laſt in the afternoone, there happened in theſe Countries an exceeding great ſtorme, and eſpecially along the Elbe and about Magdenburgh, where it was ſo great, that the violence of the wind had certainly carried both <hi>Tilly</hi> himſelfe with his tent and pavillion, ſtan<g ref="char:EOLhyphen"/>ding not very farre from Werben, away into the Elbe, had he not beene reſcued and ſaved by his attendants and Soul<g ref="char:EOLhyphen"/>diers.</p>
+            </div>
+            <div type="section">
+               <head>From <hi>Deſſaw</hi> the <hi>9.</hi> of Auguſt.</head>
+               <p>
+                  <hi>Tilly</hi> being much diſpleaſed at the loſſe of the Cavalry which were defeated by the King of Sweden on the 27<hi rend="sup">th</hi>. of Iuly, did breath nothing but revenge againſt Sweden, and therefore having advanceed with his maine army towards the King of Sweden, he had ſeverall enterpriſes and gave many onſets and aſſaults againſt the Kings Campe, which was well fortified and provided, as that King is accuſtomed to doe whereſoever he doth encampe himſelfe. <hi>Tilly</hi> ſeeing he could not doe any great matter againſt him by force, did vſe alſo ſome other plots, to bereave the King of the uſe of his ordnance, Where<g ref="char:EOLhyphen"/>by the King did mightily annoy him, and having ſome ſecret inteligence with ſome ſouldiers that ſerved the King, he cor<g ref="char:EOLhyphen"/>rupted them to naile the ſaid ordnance againſt St. <hi>Iames</hi> day, which day <hi>Tilly</hi> intended to aſſault the Kings Campe. But one of thoſe ſouldiers or Traytors diſcovered the matter unto the King, who keeping it ſecret, gave order for that dayes worke, on which <hi>Tilly</hi> began to play with his great Ordnance diſcharging about 80. ſhots, during which time no anſwer nor ſhot was made from the Kings Campe. Therefore <hi>Tilly</hi> ſent ſome of his horſe to skirmiſh, who came under the Kings ord<g ref="char:EOLhyphen"/>nance, but yet were not ſhot at except by ſome muſquetiers, which the King ſuffered now and then to give fire againſt them; <hi>Tilly</hi> ſeeing no ordnance play againſt him, ſuppoſed that indeed the Kings ordnance had beene nailed, and there<g ref="char:EOLhyphen"/>upon gave a furious aſſault upon the Campe. Then the King cauſed his ordnance on a ſudden to play through the middeſt of the Imperialiſts. And ſoone after he made a fally with his
+<pb n="4" facs="tcp:177410:4"/>horſe and ſome of his Infantery, and forced the Imperialiſts to withdraw into their owne quarters. The two next dayes one after another <hi>Tilly</hi> tryed againe his fortune againſt the King of Sweden, but he was alwaies ſo well received, that at laſt his men had no more minde to come on, but retiring were by the Swediſh forces that followed them, eſpecially by the Swediſh dragoners ſo overhaſtened, that many loſt their lives, and left behind them a great number of their Waggons, bag<g ref="char:EOLhyphen"/>gage and peeces of ordnance. <hi>Tilly</hi> retired into Magdenburgh, and what he will now doe is not knowne; he ſends for forces to joyne with him, which daily come marching from ſeverall places. The King doth the like; Some thinke <hi>Tilly</hi> will make an attempt about the river of Havel, but long he cannot ſub<g ref="char:EOLhyphen"/>ſiſt, for the King hath his proviſions and victualls comming to him without any let, where <hi>Tilly</hi> hath none but what is brought very farre downe from Germany to his army, where there is already ſuch a dearth, that a loafe of bread coſts a Flo<g ref="char:EOLhyphen"/>rin of gold, which is a french crowne; whereby it is thought <hi>Tilly</hi> muſt either goe backe againe or tarrying but a while lon<g ref="char:EOLhyphen"/>ger, ſuffer extreamity.</p>
+            </div>
+            <div type="section">
+               <head>From <hi>Prage</hi> the <hi>4.</hi> of Auguſt Stil nouo.</head>
+               <p>It is certaine that the King of Sweden hath defeated on the 17. of Iuly laſt at night, foure whole Imperiall Regiments, ſlaying a great number, and among the ſame Collonell <hi>Bern<g ref="char:EOLhyphen"/>ſtein,</hi> for whom there is heere made great lamentation, but more eſpecially by his Siſter, becauſe he was the laſt of his family. <hi>Montecuculy</hi> we do heare was not preſent, being then in Sileſia; But his regiment was wholly defeated, and parti<g ref="char:EOLhyphen"/>cularly three Companies thereof were all ſlaine ſo that not one man thereof eſcaped. There eſcaped ſome few with ſuch a ſwiftneſſe, that they left all they had behind, running away in their ſhirts, as they came out of their beds. We cannot know the trueth of all particulars, but ſome of them confeſſe, they loſt at the leaſt about tenne Cornets and foure Enſignes, and withall all their baggage. Since that accident there comes newes of ſome other encounter and fighting betweene <hi>Tilly</hi>
+                  <pb n="5" facs="tcp:177410:4" rendition="simple:additions"/>and Sweden. But we can ſeldome underſtand the certainty of things here, where all is related as the Imperialiſts will have it: But we perceive ſo much by their lookes and behaviours, that their laſt newes are not ſo good as they doe like and wiſh it.</p>
+               <p>Meane while the army that the Emperour hath in Sileſia, having not done any thing yet worthy of relation is now to be augmented, and to that end there are ſent out of Bohemia, 5000. men, gathered in this kingdome and in Moravia. And there are 5000. Hungarians and Crabats to follow and joyne with the ſaid army, which is commanded by generall <hi>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ieffe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>bach,</hi> who ſhall bring the ſame alſo againſt the King of Sweden.</p>
+            </div>
+            <div type="section">
+               <head>From <hi>Francfort</hi> the <hi>28.</hi> of Iuly. Stil. vet.</head>
+               <p>The army of the <hi>Landgrave</hi> of Heſſen Caſſell, doth lay great impoſition and deſire a conſtant contribution from the Biſhoprick of Hirſhfield, uſing them as the Imperialiſts and League did and doe uſe all other Proteſtants: But whether this will hold, (unleſſe the King of Sweden come deeper into Germany) or not, is uncertaine. The Popiſh Clergy and eſpecially the Abbot of Fulda are fled from the ſaid Hirſh<g ref="char:EOLhyphen"/>field and have carried away all their Ornaments and Church<g ref="char:EOLhyphen"/>ſtuffe unto Hamelburgh. The Imperiall forces commanded by the Count <hi>Firſtenberg</hi> doe now march towards the fore<g ref="char:EOLhyphen"/>named Biſhoprick.</p>
+            </div>
+            <div type="section">
+               <head>From <hi>Heuſdon</hi> Auguſt the <hi>10. 1631.</hi>
+               </head>
+               <p>There was a fellow in the faſhion of a Marchant which comming upon the Longſtreet, inquired after and hired a Buſh to carry certaine Trunkes for Holland, and having a<g ref="char:EOLhyphen"/>greed for the fraught, he gave ſpeciall charge and inioyned the Shipmaſter (by reaſon of the great charge hee had in his Trunkes) to make up cloſe to the Convoy and the Amuniti<g ref="char:EOLhyphen"/>on Ships of the States lying before Heuſdon, at that time there laye about 80. Ships in the River. The ſaid Buſh ac<g ref="char:EOLhyphen"/>cordingly made up amongſt the States ſhips of Ammunition and was not ſuſpected, till in the night of a ſudden there was a
+<pb n="6" facs="tcp:177410:5"/>noyſe and a great cracke given which was the blowing up of the ſaid Buſh, being amongſt the whole Fleet of the States; if the granaded Fireworks and other deviſes in the Trunkes had dilated its force abroad, as it wrought and flew altogether upward, it had endangered the whole Nauy of the States lying in the River before Hueſdon and the towne of Hueſdon it ſelfe, beſides the leſſe of all the Ammunition and Proviſion for the Army which lay in theſe ſhips. The Marchant fled but the Shipmaſter was laid hold on and clapt in priſon: there was in the Buſh onely one little boy kild.</p>
+            </div>
+            <div type="section">
+               <head>From <hi>Fluſhing</hi> the <hi>24.</hi> of Auguſt.</head>
+               <p>Newes from Antwerp, that the Ammunition and Fire<g ref="char:EOLhyphen"/>workes were unladen in the night betweene wedneſday and thurſday, which giveth hope that their enterprize is bro<g ref="char:EOLhyphen"/>ken, which God grant.</p>
+            </div>
+            <div type="section">
+               <head>From <hi>Paris</hi> the <hi>12.</hi> of Auguſt.</head>
+               <p>The D. <hi>D'eſpernon</hi> Governour of <hi>Guyen,</hi> the Count of <hi>Grand<g ref="char:EOLhyphen"/>mont</hi> Governour of <hi>Bearn</hi> &amp; of <hi>Bayonne.</hi> The Count of <hi>Rochefou<g ref="char:EOLhyphen"/>cant</hi> Governour of <hi>Poitou;</hi> haue declared themſelves, for <hi>Monſieur</hi> the Kings brother: There is likewiſe ſome trouble in theſe events: whither the K. ſendeth the Marſhall of <hi>Vitry.</hi>
+               </p>
+               <p>The King hath given all <hi>Monſier</hi> his brothers governments to the Marſhall of <hi>Caſtill.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>From <hi>Paris</hi> the <hi>18.</hi> of Auguſt.</head>
+               <p>Since my arrivall at <hi>Paris</hi> I have not learned any thing wor<g ref="char:EOLhyphen"/>thy to be written, ſaving the diſcovery of a treaſon upon the towne of <hi>Orange:</hi> Thoſe which have plotted it, do what they can to plaiſter their perfidie, and to keepe the Prince of <hi>Orange</hi> from getting any knowledge thereof. The Sonne of <hi>Beſme</hi> who killed the Admirall of <hi>Chaſtillon</hi> the yeare of Chriſt 1572. hath bin beheaded by his owne ſolicitation. The Dut<g ref="char:EOLhyphen"/>cheſſe of <hi>Tremoville</hi> is extreamely ſicke, and was yeſterday re<g ref="char:EOLhyphen"/>co<g ref="char:cmbAbbrStroke">̄</g>mended to the prayer of the reformed Church at <hi>Charenton.</hi>
+               </p>
+               <p>The King hath made a declaration againſt <hi>Monſieur</hi> his bro<g ref="char:EOLhyphen"/>ther, the Qu. his Mother, &amp; all thoſe which follow their party.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="7" facs="tcp:177410:5"/>
+            <head>THE TRVE COPIE OF of a briefe and true Demonſtration, why his Majeſty of SVVEDEN could in no wiſe reſcue and deliver the Citie <hi>Magdenburgh.</hi>
+            </head>
+            <argument>
+               <p>WHEREIN <hi>The Reader may not onely bee acquainted with thoſe ſolide Reaſons which doe excuſe and diſcharge his Maieſty from all falſe imputations layd to his Maieſties charge concer<g ref="char:EOLhyphen"/>ning</hi> Magdenburgh. <hi>But alſo hee ſhall receive great light of moſt of his Maieſties proceedings this laſt yeare past, and the diſtreſſe and extremity his Maieſty hath maded thorough and what comfortable ſucceſſe the Lord hath affoorded him, notwithſtanding his manifold obſta<g ref="char:EOLhyphen"/>cles and oppoſitions.</hi>
+               </p>
+            </argument>
+            <p>IT is an apparent and naked truth. That the Burgamaſters, councel, and Citizens of the City <hi>Ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>burgh</hi> could in no wiſe be drawn and perſwaded to disburſe a reaſo<g ref="char:EOLhyphen"/>nable ſumme of money, (upon good aſſurance) for the ad<g ref="char:EOLhyphen"/>vancement of the levying and raiſing of forces, for his Maie<g ref="char:EOLhyphen"/>ſty of Sweden, tending to the reliefe and deliverance of the ſaid diſtreſſed itty in particular, and reducement of the com<g ref="char:EOLhyphen"/>mon Germain Liberties and Priviledges, in generall. Much leſſe would they any wiſe conſent and permit, the leaſt quarter or billetting to his Maieſty and his grace the Adminiſtrators of Magdenburgh, their conjoyned forces; till at the laſt, by rea<g ref="char:EOLhyphen"/>ſon of the enemies blocking of them up, this laſt ſiedge, they were compelled thereunto.</p>
+            <p>Which was the cauſe, that both the horſe and foot-forces
+<pb n="8" facs="tcp:177410:6"/>neyther might, nor would aggregate, in ſuch a compleat num<g ref="char:EOLhyphen"/>ber, and ſo opportunely as both they could haue done, and was requiſite, inſomuch that the enemy gained conueniency and opportunity to blocke up, and beſiedge the ſaid Citty, by the meanes wherof his Mai. was of neceſſity conſtrained ſomewhat to deſiſt, and his intention ayming at the generall and publike good, was thereby withdrawne, and exceedingly hindred.</p>
+            <p>But to the end, that all men may fully be acquainted with the cauſes which moved his Mai. to this reſolution to aſſemble a convenient and reaſonable army in that place afore mentio<g ref="char:EOLhyphen"/>ned. We muſt know; that even than, where his Princely grace the Adminiſtrator of Magdenburgh, in the end of Iuly in the yeare paſt 1630. came into the Citty, the whole Biſhoprick of Magdenburg was very deſtitute of Imperiall troupes, and fur<g ref="char:EOLhyphen"/>niſhed with very weake garriſon. So that his Princely grace wanted no thing except the aforeſaid monies for the raiſing of ſouldiers; which if upon earneſt requeſt, and ſoliciting of the ſaid Citty Magdenburgh he could have obtained, in a very ſhort ſpace he might very eaſily have raiſed and aſſembled together certaine thouſands of men, and by that meanes haue prevented and put by the ſiedge, which <hi>Papenheym</hi> hath then begun with very few forces, yea he might than have diverted the whole State of that warre, have withdrawn all warlike proviſion and neceſſaries from the enemy, and aſſembled his forces even with<g ref="char:EOLhyphen"/>in the Citty. He might alſo have built an inexpugnable fort or Tower, and have conſtituted <hi>Sedem Belli,</hi> to ſecond, and de<g ref="char:EOLhyphen"/>fend all the adjacent places againſt the unſpeakable Tyranny, and perceiving impoſitions of his adverſary. And here we o<g ref="char:EOLhyphen"/>mit to ſpeake of all other important and many conſequences of warre. Eſpecially, this is to be regarded, that this Citty by this meanes might ſo long have bin preſerved vntill his Mai. of Sweden had quite expelled and ruinated all the Emp. forces in Pomerania, and upon the river Oder. Howſoever, the com<g ref="char:EOLhyphen"/>mon people of this Citty are in this matter very excuſable, who by reaſon of the potent favorites and traitors which the enemy had drawn to him in that Citty, were not able to pro<g ref="char:EOLhyphen"/>ceed with a couragious and manly reſolution. Which may ſuf<g ref="char:EOLhyphen"/>ficiently appeare by the woefull and lamentable ruine of the
+<pb n="9" facs="tcp:177410:6"/>ſaid Citty, which the treacherous Machination of thoſe tray<g ref="char:EOLhyphen"/>tors of their owne Countrey, brought upon the ſame, and is meerely to be imputed unto them, for in all this they have prevailed.</p>
+            <p>But notwithſtanding all this, it may eaſily appeare, and by thoſe Citties themſelves be made manifeſt, what vigilant care and diligence his Mai. hath taken, and beſtirred himſelfe for the obtaining of the ſaid monies by exchange from the Citty Hamburgh and Lubeck, and tranſported the ſame to Magden<g ref="char:EOLhyphen"/>bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh, becauſe they, by reaſon of the Scituation of that place had not opportunity and could not furniſh ſuch meanes, not<g ref="char:EOLhyphen"/>withſtanding it could be proved eaſily, that it was not ſo im<g ref="char:EOLhyphen"/>poſſible for them as their excuſe would make it. So that this fault in the very firſt beginning is not to be aſcribed to his Mai. nor his Princely grace the Adminiſtrator of Magden<g ref="char:EOLhyphen"/>burgh. But to thoſe traytors and founders of miſchiefe on the one, and to their conſorts and adherents, who furniſhed the enemy with munition, proviſion &amp;c. on the other ſide.</p>
+            <p>And although that his Mai. ſince that time hath made ouer great ſummes of money for the maintenance of the ſouldiers, and alſo hath tranſported much proviſion and all warlike ne<g ref="char:EOLhyphen"/>ceſſaries to Magdenburgh, and promiſed the ſaid Citty his Kingly ayd and deliverance, at ſeverall times. Nevertheleſſe thoſe that are acquainted and skilled in Pollitick and warlike affaires, doe know that thoſe kind of promiſes are regulated according to conveniencie, and according to the po<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſibility of men, and the ſtate of things. And are not to be taken ſo ab<g ref="char:EOLhyphen"/>ſurdly, as if the Kings maieſty of neceſſity muſt for ſatisfaction of his promiſe made, endanger and hazard the common wel<g ref="char:EOLhyphen"/>fare, the deliverance of ſo many hundred thouſand ſoules and conſequently his whole royall State, his Kingdome and Coun<g ref="char:EOLhyphen"/>trey, or rather ruinate and utterly undoe the whole worke be<g ref="char:EOLhyphen"/>gunne, and leave all in a deſperate ſtate and Condition. Where<g ref="char:EOLhyphen"/>as at the firſt this Citty might eaſily have bin holpen with the leaſt ſupply. And yet furthermore we doe ſhew and declare, that his Mai. notwithſtanding them aboue mentioned reaſons hath uſed and reached forth his beſt and extreame endeavour, to relieue and deliver this Citty, but hath bin hindered and
+<pb n="10" facs="tcp:177410:7"/>prevented, and kept back by ſuch obſtacles and hinderances, as were impoſſible for him to ſhun. Which being demonſtra<g ref="char:EOLhyphen"/>ted we are fully perſwaded that no man being unpartiall, and voyd of paſſion, and in his right ſences and temper, will any longer in this point accuſe and impute any cauſe unto his Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            <p>It is well knowne, not onely to the whole Empire but throughout the whole Chriſtian world, that an huge Emperi<g ref="char:EOLhyphen"/>all army being enquartered in the two Dukedomes of Pomera<g ref="char:EOLhyphen"/>nia and Mechlenburgh, had than already cut off the paſſage from the Eaſt-ſea to Magdenburgh, which great army in Champagne (eſpecially in horſe forces) did farre exceed the army of his Maieſty of Sweden, which was the cauſe that it proved impoſſible for his Maieſty with his weake Army to ſtrike thorough ſo puiſſant an Army, beeing enquartered in ſo ſtrong a paſſage, and paſſe quite thorough his Enemies the length of forty Dutch miles, unleſſe firſt hee had confirmed himſelfe in ſome place, and had ſome footing in that ſtrange Countrey.</p>
+            <p>It is alſo ſufficiently knowne, that notwithſtanding his Maieſty uſed all poſſible meanes, laboured as ſoone as poſſible might bee to advance his chiefeſt Troupes, and induct them into thoſe parts. Nevertheleſſe, it was in the moneth No<g ref="char:EOLhyphen"/>vember, 1630. before theſe forces arrived.</p>
+            <p>Which, when hee had received and reduced into his army under him the whole cold Winter, ayming eſpecially to attaine to the deliverance of the ſayd City Magdenburgh. It is to bee doubted, whether or no, any man in ſo rigid and ſharpe a Winter, and in the middeſt of ſo many inconveniences, and paſſing thorough ſo many obſtacles, hath ever effected ſo much and in ſo ſhort a ſpace. For by meanes of this his Maieſties incomparable labour in this hard time, it plea<g ref="char:EOLhyphen"/>ſed Almighty God, (from whom proce<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds all <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tory) to de<g ref="char:EOLhyphen"/>liver up into the hands of his Maieſty with admirable victo<g ref="char:EOLhyphen"/>ry, thoſe two mighty paſſages of Gartz and Griffenhagen. Which if his Maieſty had not obtained, it had bin impoſ<g ref="char:EOLhyphen"/>ſible for him, and very unadviſedly done, to have proceed<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d any farther, unleſſe his Maieſty contrary to all rules a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d
+<pb n="11" facs="tcp:177410:7"/>Inſtructions of warre, and contrary to reaſon and poli<g ref="char:EOLhyphen"/>ticke prudencie, would haue hazarded and endangered the common welfare and his owne ſtate, and ruinated them both</p>
+            <p>Now by reaſon of this admirable victory which it plea<g ref="char:EOLhyphen"/>ſed Almighty God to afford his Maieſty, he obtained ſo much advantage of his Enemy, that he might eaſily have fallen uppon the very head of him, and utterly rui<g ref="char:EOLhyphen"/>nated all his forces, and conſequently (by Gods aſſiſtance,) without great hinderance, or loſſe have delivered the ſaid Citty Magdenburgh. If his Maieſty, could but have obtained the paſſage and thoroughfare, through the ſtrong and mighty fortreſſe Cuſtrin, which he ſought and required of the commander <hi>Krachten,</hi> who then commanded there, with earneſt intreaty and ſupplication, upon good aſſurance.</p>
+            <p>Hereupon did follow very great inconveniences. His Maieſty through want of victualls and furniture, was con<g ref="char:EOLhyphen"/>ſtrained to let his enemy eſcape and retire to Lantsbergh.</p>
+            <p>His Royall Army alſo by reaſon hereof happened into ſe<g ref="char:EOLhyphen"/>verall dangers and extreamities. The Catholick blood-thir<g ref="char:EOLhyphen"/>ſty Enemy by this meanes was not ruinated, who otherwiſe was brought into a remedileſſe confuſion. Neither could his Maieſty wholly purge the River Elue, and all the Countrey betweene the Elue and the Eeſt-ſea, from theſe bloody and cruell Enemies. Much leſſe could his Maieſty relieue and ſe<g ref="char:EOLhyphen"/>cond the reſt of the Evangelicall Princes with a victorious hand. Who now are extreamely in danger to looſe all ſpi<g ref="char:EOLhyphen"/>rituall and temporall liberties and priviledges.</p>
+            <p>All theſe inconveniences did hence proceed, becauſe his Maieſty could not obtain the aforeſaid paſſage of Cuſtrin from the Commander <hi>Krachten.</hi>
+            </p>
+            <p>If any one object heere, that his Majeſty ought to have conducted and brought his Army into his Enemies face the Generall <hi>T<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lly,</hi> and rouzed him up with his Army. Wee have already ſhewed, that his Maieſties army, was exceedingly wea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied, and that whole winter grievouſly weakened. And by reaſon of the refuſall of the paſſage of Cuſtrin, not onely
+<pb n="12" facs="tcp:177410:8"/>debilitated but decreaſed, and therefore not capable and ſuffici<g ref="char:EOLhyphen"/>ent to oppoſe ſo great a power as <hi>Tilly</hi> than had. Neither did his Maj. hold it expedient and commendable, to proceed deſ<g ref="char:EOLhyphen"/>perately and to hazard the whole matter in a dangerous fight. Which if it had not well ſucceeded, as apparently it might not, the good City <hi>Magdenburgh</hi> had fared never the better.</p>
+            <p>When <hi>Tilly</hi> was retired out of Pomerania and Mechlenburgh, than was the City <hi>Magdenburgh</hi> aſſaulted with the greateſt and extreameſt power, ſo that it is in no wiſe to be imputed to his Maieſty that the ſayd City was not delivered. Concerning the time whileſt this ſiedge did continue, it is not unknowne that the Emperors army being ſtrong before both of horſe and foot, and having taken thoſe aforeſaid paſſages by the <hi>Oder,</hi> did refortifie themſelves and adde unto their forces 12000. and came into a perfit ſtate and poſture, in the <hi>Nieumarck, O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ker<g ref="char:EOLhyphen"/>marek,</hi> eſpecially at <hi>Francfort, Lantsb<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h,</hi> and the Countrey of <hi>Steynbergh,</hi> and the Province of <hi>Croſſes.</hi> Moreover the Generall <hi>Tilly</hi> with many thouſands both foot and horſe being enquar<g ref="char:EOLhyphen"/>tered on this ſide of the Elve and Mockeren, was very vigilant, and did duely attend all occaſions. Inſomuch that it was not plauſible for his Maj. to leave ſuch an Army as was before men<g ref="char:EOLhyphen"/>tioned behind his back, and meeting the Generall <hi>Tilly</hi> by that meanes, to thruſt himſelfe between the doore and the hindge, <hi>Inter Malleum &amp; incunem.</hi>
+            </p>
+            <p>Notwithſtanding all this, his Majeſt. of Sweden to ſhew and manifeſt his Chriſtian reſolution, and good intention for the reſtoring and recovering of the Germaine liberties and privi<g ref="char:EOLhyphen"/>ledges of the Proteſtant Churches, &amp; for the diſcharging of his Majeſties Conſcience, and for his reputation, with a Heroicke courage did aſſault the very heart of the whole Imperiall Army within the City <hi>Francfort,</hi> than being at leaſt 700<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. ſtrong. Where, with extraordinary victory (which it pleaſed God in reſpect of his Chriſtian intention to afford him) hee defeated, overcame, and utterly ruinated them, ſo that now hee had no ſuch cauſe more to feare his enemy behind him. Howſoever this is to be conſidered, that in a very ſhort ſpace 6000. men were againe recollected together, under the Co<g ref="char:cmbAbbrStroke">̄</g>mander <hi>Schou<g ref="char:EOLhyphen"/>wenburgh</hi> at great Glogau in Sileſia, which 6000. men by all
+<pb n="13" facs="tcp:177410:8"/>likelihood, by reaſon of the confluxe of many forces from Sile<g ref="char:EOLhyphen"/>fia, Mehren, Bohemia, and Hungaria, might have beene excee<g ref="char:EOLhyphen"/>dingly augmented.</p>
+            <p>Notwithſtanding, but diſregarding all this, as alſo that Ge<g ref="char:EOLhyphen"/>nerall <hi>Tilly</hi> could eaſily adjoyne his forces to the reſt, tranſpor<g ref="char:EOLhyphen"/>ting them over the Elve by meanes of the Bridge layd neere unto <hi>Magdenburgh,</hi> his Maj. did ſo much reſpect, and tender the good City <hi>Magdenburgh,</hi> that not fearing the great danger after good deliberation, himſelfe in perſon, with his whole Army marched to Berlyn, there to obtaine the ſtrong fort Span<g ref="char:EOLhyphen"/>dau, to the end that his Maj. in time of neceſſity might have a ſure retreat. Which having obtained, his Maj. proceeded for<g ref="char:EOLhyphen"/>ward on the way to Potzdam, hoping that whereas the ſaving of the City <hi>Magdenburgh</hi> did ſo deeply concerne the Prince <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lector of Saxony, that his Princely Excellence would aſſiſt him with ſome troupes and certaine pieces of Ordnance, mu<g ref="char:EOLhyphen"/>nition, powder, ſhot &amp;c. for the furthering of this great and heauy enterprize of relieving the City Magdenburgh, or at leaſtwiſe, affoording him a free paſſage and thorough-fare over the Daſſaw-bridge, by which meanes his Majeſty might have received all manner of neceſſaries from <hi>Meyſſen,</hi> and more con<g ref="char:EOLhyphen"/>veniently have paſſed along the River neere unto the City in<g ref="char:EOLhyphen"/>tended. Therefore his Maj. did to this end ſend ſeverall meſ<g ref="char:EOLhyphen"/>ſengers, with divers moving and extreame patheticall letters. The chiefeſt whereof were baſely kept backe aboue 14. dayes.</p>
+            <p>Laſtly, when now the time of delivery was approaching and neceſſity required no longer delay; and therefore his Majeſty had brought up his Army to undertake the maine buſineſſe, and now or never to effect ſome notable thing for the common good. The Elector of <hi>Saxony</hi> fruſtrated his expectation, and flatly denyed him all his former requeſts, appealing to his du<g ref="char:EOLhyphen"/>ty and devotion which they vowed, and the obligation where<g ref="char:EOLhyphen"/>with they were obliged to his Imperiall Majeſty.</p>
+            <p>As concerning the Marquis of <hi>Brandenburgh,</hi> his Excellence (notwithſtanding his Maieſty might have depended upon his aſſiſtance) did not deliver or at leaſtwiſe could not deliver, un<g ref="char:EOLhyphen"/>to his Maieſty, thoſe neceſſaries of victuals and ſhipping in ſuch time and meaſure as was expected and requiſite. But ra<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:177410:9"/>had a reſpect and did appeale to the example and reſoluti<g ref="char:EOLhyphen"/>on of the Prince Elector of <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xony.</hi>
+            </p>
+            <p>In ſumme, the Duke of Saxony, and the Marquis of Branden<g ref="char:EOLhyphen"/>burgh, have both of them ſo managed the buſineſſe <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd caried themſelves, that his Maieſty could not perceive wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther they were friends or enemies</p>
+            <p>Wherefore the p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emiſſes being granted, all his Maieſties chiefe Commanders have beene <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ound to confeſſe, and all ex<g ref="char:EOLhyphen"/>perienced in matters of Warre cannot deny it. That if his Maieſty had ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ched forward without being aſſured of provi<g ref="char:EOLhyphen"/>ſion from Saxony; That ſuch a tyred and unwilling Army, (though <hi>Tilly</hi> had beene alone in his Poſture) through want of ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tenance, and heate of weather and faintneſſe, of neceſſity moſt part of the ſame had p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved fugitive, part of the ſame famiſhed, and the Arm, it ſelfe intirely deſtroyed.</p>
+            <p>Hereupon his Maieſty not many da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es after, being informed concerning the Lamentable deſtruſtion of the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayd City, was conſtrained to retre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t not without great g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iefe and ſorrow of heart, and by reaſon of ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h an important alteration, caſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e his proceeding by other meanes, and <hi>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>enter volen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> of ne<g ref="char:EOLhyphen"/>ceſſity proceed by ſuch meanes, which would ſeeme very dif<g ref="char:EOLhyphen"/>ficult unto the ignorant and unskilfull. But the nature of Warre, and the common neceſſity doth require farre more dif<g ref="char:EOLhyphen"/>ficulty.</p>
+            <p>All which beeing ballanced, and unpartially perpended, by all thoſe that are skilled in Warlike and Politike affayres, the ſame will ſerve for a ſufficient diſcharge of his Maieſty both before God and all the world. Eſpecially, ſince hee<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it doth appeare, that his Maieſty hath uſed his uttermoſt power and endeavour.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
